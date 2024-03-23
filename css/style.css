@@ -62,7 +62,7 @@ a:active {
 }
 
 .main-index {
-    background-image: url(../images/Torres\ 1.jpg);
+    background-image: url(../images/torres1.jpg);
     background-size: cover;
     padding: 30px 30px 30px 30px;
     width: auto;
@@ -207,7 +207,7 @@ footer {
 /* ************ CSS de AGENTE DE VIAJES *********** */
 
 .main-agente {
-    background-image: url(../images/Torres\ 1.jpg);
+    background-image: url(../images/torres1.jpg);
     background-size: cover;
     padding: 30px 30px 30px 30px;
     width: auto;
